@@ -9,7 +9,7 @@
 ## Part II
 
 ## Part III
-Distribution Shape: Does your histogram show a long tail? What percentage of requests fall into the "slow" category?
+Distribution Shape: Does your histogram show a long tail? What percentage of requests fall into the "slow" category? <br>
   Most bars on the left (fast responses) (99.9%)
   Long tail extending right (slow outliers)
   Calculate: How many requests > 500ms? (4 requests over total 123 requests)
@@ -19,4 +19,5 @@ Percentiles: What's the difference between your median (50th percentile) and 95t
   146.44ms vs 99th percentile: 5107.03ms
 
 ## Part IV
+
 
